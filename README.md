@@ -1,4 +1,6 @@
-[1] :
+MULTIPORT FOR UBUNTU 20.04
+
+1] :
 <pre><code>apt update && apt upgrade -y && reboot</code></pre>
 
 [2] :
