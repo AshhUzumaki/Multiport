@@ -8,3 +8,6 @@ MULTIPORT FOR UBUNTU 20.04
 
 KEY :
 <pre><code>VISIT-www.dotycat.com-234QW</code></pre>
+
+CHECK MEDIA STREAM :
+<pre><code>nf</code></pre>
