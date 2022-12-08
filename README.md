@@ -10,7 +10,7 @@ KEY :
 <pre><code>VISIT-www.dotycat.com-234QW</code></pre>
 
 MEDIA UNLOCKER :
-<pre><code>wget -q -O /usr/bin/nf https://raw.githubusercontent.com/cardinalcristal/Multiport/main/media.sh && chmod +x /usr/bin/nf</code></pre>
+<pre><code>wget -q -O /usr/bin/nf https://raw.githubusercontent.com/cardinalcristal/Multiport/main/MEDIA/media.sh && chmod +x /usr/bin/nf</code></pre>
 
 TANAM DNS :
 <pre><code>netflix</code></pre>
