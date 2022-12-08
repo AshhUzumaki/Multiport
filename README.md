@@ -1,4 +1,4 @@
-MULTIPORT FOR UBUNTU 20.04
+MULTIPORT FOR UBUNTU 22.04/20.04
 
 1] :
 <pre><code>apt update && apt upgrade -y && reboot</code></pre>
